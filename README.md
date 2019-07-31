@@ -20,7 +20,7 @@ The purpose of this notebook was to implement (and visualize) a linear regresssi
 
 ## Notebook #3 - Perceptron
 
-The purpose of this notebook is to implement a basic perceptron model in PyTorch.
+The purpose of this notebook was to implement a basic perceptron model in PyTorch.
 
 A perceptron is simply a single layer neutral network that takes in multiple input values (or one input layer) and outputs a single output corresponding to one of two classes (it is a binary classifier). 
 
@@ -35,17 +35,17 @@ Perceptron process:
 
 ## Notebook #4 - Deep Neural Network
 
-The purpose of this notebook to implement a deep neural network in PyTorch to classify a more complex dataset. A deep neutral network is a model with n number of hidden layers (in this case there are 4 hidden layers).
+The purpose of this notebook was to implement a deep neural network in PyTorch to classify a more complex dataset. A deep neutral network is a model with n number of hidden layers (in this case there are 4 hidden layers).
 
 
 ## Notebook #5 - Image Classification (MNIST)
 
-The purpose of this notebook is to create a model (using linear layers) that can, with high accuracy (~96%), classify the handwritten digits in the MNIST dataset. This notebook also allowed me to use PyTorch's image transformations and various other helper functions.
+The purpose of this notebook was to create a model (using linear layers) that can, with high accuracy (~96%), classify the handwritten digits in the MNIST dataset. This notebook also allowed me to use PyTorch's image transformations and various other helper functions.
 
 
 ## Notebook #6 - CNN (MNIST Classification)
 
-The purpose of this notebook is to classify between handwritten digits in the MNIST dataset using a convolutional neural network (CNN). Using a CNN we can achieve extremely high validation accuracy (~99%) due to its excellent feature extraction.  
+The purpose of this notebook was to classify between handwritten digits in the MNIST dataset using a convolutional neural network (CNN). Using a CNN we can achieve extremely high validation accuracy (~99%) due to its excellent feature extraction.  
 
 
 ## Notebook #7 - CNN (CIFAR10 Classification)
@@ -55,11 +55,11 @@ The purpose of this notebook was to show the LeNet model used for the CIFAR10 da
 
 ## Notebook #8 - Transfer Learning
 
-The purpose of this notebook is to classify between pictures of ants and bees using transfer learning from the VGG16 pretrained model.
+The purpose of this notebook was to classify between pictures of ants and bees using transfer learning from the VGG16 pretrained model.
 
 
 ## Notebook #9 - Style Transfer
 
-The purpose of this notebook is to implement style transfer in PyTorch using a neural network pretrained on the VGG19 model.
+The purpose of this notebook was to implement style transfer in PyTorch using a neural network pretrained on the VGG19 model.
 
 Style transfer is the task of taking two images, a "content image" and a "style image", and generating a new photo ("target image") that uses the content from the "content image" and the style from the "style image".
