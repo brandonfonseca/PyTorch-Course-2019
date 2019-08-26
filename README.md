@@ -5,7 +5,9 @@ My course work from the following Udemy course: https://www.udemy.com/pytorch-fo
 This course covered a lot of material pertaining to PyTorch and computer vision applications. The notebooks in this repository increse in complexity in ascending order.
 
 
-It is important to note that the code in the following notebooks can be made much cleaner through refactoring. When writing this code I really wanted to emphasize the progression of my learning and understanding of the material. Therefore, some of the code is not PEP 8 compliant. 
+It is important to note that the code in the following notebooks can be made much cleaner through refactoring. When writing this code I really wanted to emphasize the progression of my learning and understanding of the material. Therefore, some of the code is not PEP 8 compliant.
+
+If you are having issues viewing a notebook in GitHub's native viewer please copy the link to the notebook into the following website: https://nbviewer.jupyter.org/
 
 
 ## Notebook #1 - Tensor Operations
